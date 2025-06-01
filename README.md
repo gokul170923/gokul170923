@@ -42,15 +42,15 @@ I'm passionate about software development, building systems, and competitive pro
 
 ## 🧠 Competitive Programming
 
-- 🧩 [LeetCode Profile]((https://leetcode.com/u/Gokul1230/))
+- 🧩 [LeetCode Profile](https://leetcode.com/u/Gokul1230/)
 - 🏁 [Codeforces Profile](https://codeforces.com/profile/9ine)
 
 ---
 
 ## 🔗 Connect with Me
 
-- 📧 Email: [gokul170923@gmail.com](mailto:gokulsingh1911@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/gokul170923]((https://www.linkedin.com/in/gokul-singh-75b631270/))
+- 📧 Email: [gokulsingh1911@gmail.com](mailto:gokulsingh1911@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/gokul170923](https://www.linkedin.com/in/gokul-singh-75b631270/)
 
 ---
 
