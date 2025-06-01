@@ -1,39 +1,57 @@
-## Hi there! 👋
+# 👋 Hi there, I'm Gokul!
 
-I'm Gokul, a passionate developer with a knack for solving problems through code. I love exploring new technologies and creating projects that matter.
+## 🧠 About Me
 
-## About Me
+🎓 Currently studying **Computer Science Engineering** at **Graphic Era University**.  
+I'm passionate about software development, building systems, and competitive programming. I enjoy working on projects that challenge my skills and push my limits
 
-I'm currently based in Dehradun and have a keen interest in software development. I enjoy working on various projects that challenge my skills and push my understanding of technology.
+---
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies
 
-c,cpp,html,css,git,nodejs,postman,linux,python
+`C` `C++` `HTML` `CSS` `Git` `Node.js`  
+`Postman` `Linux` `python`
 
-## Top Projects
+---
 
-- [PseudoTranspiler](https://github.com/gokul170923/PseudoTranspiler): 🔧 Converts pseudocode to Python using compiler design principles. ⭐ 0 stars, Language: Python, Issues: 0
-- [MultiThreadedProxyServer](https://github.com/gokul170923/MultiThreadedProxyServer): A multi-threaded proxy server project. ⭐ 0 stars, Language: C, Issues: 0
-- [ToDoWIthBackEnd](https://github.com/gokul170923/ToDoWIthBackEnd): My first backend project for managing tasks. ⭐ 0 stars, Language: JavaScript, Issues: 0
-- [Sort-Visualizer](https://github.com/gokul170923/Sort-Visualizer): A visual representation of sorting algorithms. ⭐ 2 stars, Language: JavaScript, Issues: 0
-- [Learn-HTML-CSS-JS](https://github.com/gokul170923/Learn-HTML-CSS-JS): Small projects to learn HTML, CSS, and JavaScript. ⭐ 2 stars, Language: HTML, Issues: 0
+## 📌 Top Projects
 
-## GitHub Stats
+- 🔧 [**PseudoTranspiler**](https://github.com/gokul170923/PseudoTranspiler): Converts pseudocode to Python using compiler design principles.
+- 🌐 [**MultiThreadedProxyServer**](https://github.com/gokul170923/MultiThreadedProxyServer): A multithreaded proxy server in C with LRU caching.
+- 📋 [**ToDoWithBackEnd**](https://github.com/gokul170923/ToDoWIthBackEnd): My first backend project for managing tasks.
+- 🎨 [**Sort-Visualizer**](https://github.com/gokul170923/Sort-Visualizer): A visual representation of sorting algorithms.
+- 🧪 [**Learn-HTML-CSS-JS**](https://github.com/gokul170923/Learn-HTML-CSS-JS): Mini projects to learn HTML, CSS, and JavaScript.
 
-Public Repositories: 13 | Followers: 3 | Following: 1 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul170923&show_icons=true&theme=radical)
+---
 
-## Recent Activity
+## 📊 GitHub Stats
 
-- Pushed changes to [PseudoTranspiler](https://github.com/gokul170923/PseudoTranspiler) 
-- Updated README for [MultiThreadedProxyServer](https://github.com/gokul170923/MultiThreadedProxyServer)
-- Contributed to [DAA-labwork](https://github.com/gokul170923/DAA-labwork)
-- Opened pull request in [PseudoTranspiler](https://github.com/gokul170923/PseudoTranspiler)
-- Committed updates to [Sort-Visualizer](https://github.com/gokul170923/Sort-Visualizer)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul170923&show_icons=true&theme=radical)
 
-## Latest Blog Posts
+---
 
-No recent blog posts available at this moment.
+## 📈 Recent GitHub Activity
 
-## Connect with Me
+- ⬆️ Pushed changes to [PseudoTranspiler](https://github.com/gokul170923/PseudoTranspiler)  
+- 📝 Updated README for [MultiThreadedProxyServer](https://github.com/gokul170923/MultiThreadedProxyServer)  
+- 🧠 Contributed to [DAA-labwork](https://github.com/gokul170923/DAA-labwork)  
+- 🔀 Opened pull request in [PseudoTranspiler](https://github.com/gokul170923/PseudoTranspiler)  
+- 💾 Committed updates to [Sort-Visualizer](https://github.com/gokul170923/Sort-Visualizer)  
 
-{}
+---
+
+## 🧠 Competitive Programming
+
+- 🧩 [LeetCode Profile]((https://leetcode.com/u/Gokul1230/))
+- 🏁 [Codeforces Profile](https://codeforces.com/profile/9ine)
+
+---
+
+## 🔗 Connect with Me
+
+- 📧 Email: [gokul170923@gmail.com](mailto:gokulsingh1911@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/gokul170923]((https://www.linkedin.com/in/gokul-singh-75b631270/))
+
+---
+
+_Thanks for stopping by! Feel free to reach out for collaboration or just to say hi 😄_
