@@ -30,13 +30,11 @@ I'm passionate about software development, building systems, and competitive pro
 
 ---
 
-## 📈 Recent GitHub Activity
+## 📈 Ceck out
 
-- ⬆️ Pushed changes to [PseudoTranspiler](https://github.com/gokul170923/PseudoTranspiler)  
-- 📝 Updated README for [MultiThreadedProxyServer](https://github.com/gokul170923/MultiThreadedProxyServer)  
-- 🧠 Contributed to [DAA-labwork](https://github.com/gokul170923/DAA-labwork)  
-- 🔀 Opened pull request in [PseudoTranspiler](https://github.com/gokul170923/PseudoTranspiler)  
-- 💾 Committed updates to [Sort-Visualizer](https://github.com/gokul170923/Sort-Visualizer)  
+- ⬆️ [PseudoTranspiler](https://github.com/gokul170923/PseudoTranspiler)  
+- 📝 [MultiThreadedProxyServer](https://github.com/gokul170923/MultiThreadedProxyServer)  
+- 💾 [Sort-Visualizer](https://github.com/gokul170923/Sort-Visualizer)  
 
 ---
 
